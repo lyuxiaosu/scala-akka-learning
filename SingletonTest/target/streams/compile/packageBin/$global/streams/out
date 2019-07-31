@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/singleton_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$Greeting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$Greeting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$Die$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$Die$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	seed.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/seed.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingletonDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/SingletonDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingletonDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/SingletonDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingletonUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/SingletonUser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$SingletonMsg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$SingletonMsg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingletonUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/SingletonUser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingletonDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/SingletonDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$Relocate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$Relocate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aia/cluster/SingletonActor$Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/SingletonTest/target/scala-2.12/classes/aia/cluster/SingletonActor$Greeting.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/users/xiaosuGW/scala-akka-learning/SingletonTest/src/main/scala/aia/cluster/single/SingletonUser.scala:11:41: not found: value ClusterSingletonProxy[0m
+[0m[[0m[31merror[0m] [0m[0m    val singletonProxy = system.actorOf(ClusterSingletonProxy.props([0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/users/xiaosuGW/scala-akka-learning/SingletonTest/src/main/scala/aia/cluster/single/SingletonUser.scala:13:7: not found: value ClusterSingletonProxySettings[0m
+[0m[[0m[31merror[0m] [0m[0m      ClusterSingletonProxySettings(system).withRole(None)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
