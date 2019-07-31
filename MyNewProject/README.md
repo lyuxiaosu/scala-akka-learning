@@ -6,4 +6,7 @@ First, export PORT on your environment
 Then,  set CLASSPATH to the path of the configuration files    
 ``` set CLASSPATH=src/main/resource ```   
 Then you can run     
-``` sbt -Dconfig.resource=seed.conf run ```    
+``` sbt -Dconfig.resource=seed.conf run ```       
+
+## Package ##
+``` sbt package ```
