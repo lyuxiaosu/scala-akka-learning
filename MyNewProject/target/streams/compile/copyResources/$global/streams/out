@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/users/xiaosuGW/MyNewProject/src/main/resources/master.conf,/users/xiaosuGW/MyNewProject/target/scala-2.12/classes/master.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/users/xiaosuGW/MyNewProject/src/main/resources/seed.conf,/users/xiaosuGW/MyNewProject/target/scala-2.12/classes/seed.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/users/xiaosuGW/MyNewProject/src/main/resources/worker.conf,/users/xiaosuGW/MyNewProject/target/scala-2.12/classes/worker.conf)[0m
