@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/myproject_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /users/xiaosuGW/scala-akka-learning/HttpServer/target/scala-2.11/classes/WebServer$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
